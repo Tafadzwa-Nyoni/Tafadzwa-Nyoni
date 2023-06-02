@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tafadzwa-Nyoni
-- 🌱 I’m currently learning Java, Springboot and Angular
+- 🌱 I’m currently learning Java and Springboot
 - 📫 How to reach me via email: tafyevelyn@gmail
 - 
 -         =======================  💞️  ======================== 
