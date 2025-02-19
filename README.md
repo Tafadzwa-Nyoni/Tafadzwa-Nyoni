@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Tafadzwa-Nyoni
-- 🌱 I’m currently learning Java and Springboot
-- 📫 How to reach me via email: tafyevelyn@gmail
-- 
--         =======================  💞️  ======================== 
+  👋 Hi!
+Happy coding :)
+
+=======================  💞️  ======================== 
 
 <!---
 Tafadzwa-Nyoni/Tafadzwa-Nyoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
